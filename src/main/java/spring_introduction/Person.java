@@ -1,5 +1,7 @@
 package spring_introduction;
 
+import org.springframework.stereotype.Component;
+
 public class Person {
     private Pet pet;
     private String surname;
